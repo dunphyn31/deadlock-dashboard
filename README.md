@@ -1,4 +1,5 @@
 # Deadlock Ranked Dashboard
+Mainly a test for agentic work and testing out claude pro but it does work just looks ugly.
 
 Interactive dashboard for one or more players' most recent ranked Deadlock matches, built on the
 community API at <https://api.deadlock-api.com>.
